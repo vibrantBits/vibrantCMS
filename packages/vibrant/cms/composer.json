@@ -1,0 +1,11 @@
+{
+    "name": "Vibrant/Cms",
+    "description": "This is VibrantCMS's core application",
+    "authors": [
+        {
+            "name": "Edgar Escudero",
+            "email": "edgar.escudero@aerobit.com"
+        }
+    ],
+    "require": {}
+}
