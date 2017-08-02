@@ -1,6 +1,6 @@
 {
-    "name": "laravel/vibrant",
-    "description": "The Laravel Framework.",
+    "name": "vibrant/laravel-vibrantCMS",
+    "description": "Easy and powerful CMS for Laravel",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
